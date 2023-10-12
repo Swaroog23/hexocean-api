@@ -6,7 +6,8 @@ Core components of this projects are:
  - Django
  - Django Rest Framework
  - Pillow
- - PostgreSQL
+ - PostgreSQL <br>
+ <br>
 Main function of this projects is to allow users to save images and recive links to thumbnails. Size of thumbnails is based on tiers.
 
 ## Endpoints
